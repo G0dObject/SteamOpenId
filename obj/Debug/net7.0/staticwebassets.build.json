@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DAMtTT1UC8vmEF5CmrFur8ZQcHNLY3+bajfcLffL5V4=",
+  "Source": "SteamOpenId2.0",
+  "BasePath": "_content/SteamOpenId2.0",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
