@@ -17,3 +17,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = I:\Dotnet\SteamOpenId2.0\SteamOpenId2.0
 build_property._RazorSourceGeneratorDebug = 
+
+[I:/Dotnet/SteamOpenId2.0/SteamOpenId2.0/Views/Inventory/InventoryModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEludmVudG9yeU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

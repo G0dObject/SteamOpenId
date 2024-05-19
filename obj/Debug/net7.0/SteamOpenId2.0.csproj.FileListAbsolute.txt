@@ -37,3 +37,5 @@ I:\Dotnet\SteamOpenId2.0\SteamOpenId2.0\obj\Debug\net7.0\SteamOpenId2.0.pdb
 I:\Dotnet\SteamOpenId2.0\SteamOpenId2.0\obj\Debug\net7.0\SteamOpenId2.0.genruntimeconfig.cache
 I:\Dotnet\SteamOpenId2.0\SteamOpenId2.0\obj\Debug\net7.0\ref\SteamOpenId2.0.dll
 I:\Dotnet\SteamOpenId2.0\SteamOpenId2.0\obj\Debug\net7.0\SteamOpe.F26F262B.Up2Date
+I:\Dotnet\SteamOpenId2.0\SteamOpenId2.0\obj\Debug\net7.0\SteamOpenId2.0.RazorAssemblyInfo.cache
+I:\Dotnet\SteamOpenId2.0\SteamOpenId2.0\obj\Debug\net7.0\SteamOpenId2.0.RazorAssemblyInfo.cs
