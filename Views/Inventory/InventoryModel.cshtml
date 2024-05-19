@@ -1,0 +1,55 @@
+﻿@model SteamOpenId2._0.Views.Inventory.InventoryViewModel
+@{
+    ViewData["Title"] = "Inventory";
+}
+
+<div class="inventory-container">
+    <div class="player-photo">
+        <img src="@Model.PlayerImageUrl" alt="Player Photo" />
+    </div>
+    <div class="inventory-items">
+        @foreach (var item in Model.Items)
+        {
+            <div class="inventory-item">
+                <img src="https://community.akamai.steamstatic.com/economy/image/ @item.icon_url" alt="@item.name" title="@item.name" />
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    .inventory-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 20px;
+    }
+
+    .player-photo {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+    }
+
+        .player-photo img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+        }
+
+    .inventory-items {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 50px;
+    }
+
+    .inventory-item {
+        margin: 10px;
+    }
+
+        .inventory-item img {
+            width: 50px;
+            height: 50px;
+        }
+</style>
